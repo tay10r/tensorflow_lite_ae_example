@@ -1,0 +1,9 @@
+generate
+*.tflite
+encoder
+decoder
+encoder.cpp
+decoder.cpp
+data
+deploy
+build
